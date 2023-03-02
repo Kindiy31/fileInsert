@@ -44,4 +44,3 @@ class create:
 creatingClass = create()
 creatingClass.cycleArgv()
 creatingClass.createFile()
-# write your code here
